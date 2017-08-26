@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="six">#666</color>
+    <color name="three">#333</color>
+    <color name="nine">#999</color>
+    <color name="light_blue">#60DEF5</color>
+    <color name="white">#FFFF</color>
+    <color name="black">#000000</color>
+    <color name="line">#F0F0F0</color>
+    <color name="transparent">#00000000</color>
+    <color name="circle_3_transparent">#4DFFFFFF</color><!-- 白色的30%透明度 -->
+    <color name="circle_6_transparent">#9AFFFFFF</color><!-- 白色的60%透明度 -->
+    <color name="circle_5_transparent">#80FFFFFF</color><!-- 白色的50%透明度 -->
+    <color name="circle_9_transparent">#E6FFFFFF</color><!-- 白色的90%透明度 -->
+    <color name="sky_blue">#28B3EC</color>
+</resources>
